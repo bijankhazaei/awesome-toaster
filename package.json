@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bijankhazaei/awesome-toaster/issues"
   },
-  "homepage": "https://github.com/bijankhazaei/awesome-toaster#readme"
+  "homepage": "https://github.com/bijankhazaei/awesome-toaster#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
